@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main_program.dir/main.cpp.o -o main_program  -lglfw -lGLEW -lGL -lglut -lXi 

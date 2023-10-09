@@ -1,0 +1,3 @@
+/home/rd238422/OpenGL/Prim/build/CMakeFiles/main_program.dir
+/home/rd238422/OpenGL/Prim/build/CMakeFiles/edit_cache.dir
+/home/rd238422/OpenGL/Prim/build/CMakeFiles/rebuild_cache.dir
